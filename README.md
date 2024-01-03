@@ -1,5 +1,4 @@
-![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0XlWQdSfXoVTBQGNvlnf060Nkxdp47TIMAQ&usqp=CAU
-)
+![MasterHead](https://drive.google.com/file/d/1zQuLJHAGyLfbY4KUUR8ReU4Q1ZppXhG_/view?usp=drive_link)
 <h1 align="center">Hi 👋, I'm Shruti</h1>
 <h3 align="center">A passionate and Curious Full Stack Web developer</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
