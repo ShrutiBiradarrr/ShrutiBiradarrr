@@ -1,4 +1,3 @@
-![Header](./[https://ibb.co/HBF02Ff])
 https://ibb.co/HBF02Ff
 <h1 align="center"  style="color:blue;">Hi 👋, I'm Shruti</h1>
 <h3 align="center">A passionate and Curious Full Stack Web developer</h3>
