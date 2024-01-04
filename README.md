@@ -1,4 +1,4 @@
-[![MasterHead](https://ibb.co/HBF02Ff)]
+![MasterHead](./ezgif.com-animated-gif-maker.gif)
 
 <h1 align="center"  ">Hi 👋, I'm Shruti</h1>
 <h3 align="center">A passionate and Curious Full Stack Web developer</h3>
