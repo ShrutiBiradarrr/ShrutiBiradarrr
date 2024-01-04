@@ -14,10 +14,10 @@
 
 <h2 align="left"> 🌐 Connect with me:</h2>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shruti-biradar-240077210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shruti-biradar-240077210/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/_shruti10__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/_shruti10__/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/shruti_1010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/shruti_1010" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/hackerrank.com/shrutii1010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank.com/shrutii1010" height="30" width="40" /></a>
+<a href="https://linkedin.com/shruti-biradar-240077210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shruti-biradar-240077210/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/_shruti10__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/_shruti10__/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/shruti_1010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/shruti_1010" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/shrutii1010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank.com/shrutii1010" height="30" width="40" /></a>
 
 </p>
 </hr>
