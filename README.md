@@ -1,4 +1,3 @@
-https://ibb.co/HBF02Ff
 <h1 align="center"  style="color:blue;">Hi 👋, I'm Shruti</h1>
 <h3 align="center">A passionate and Curious Full Stack Web developer</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
