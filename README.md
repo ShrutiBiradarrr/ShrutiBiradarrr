@@ -1,7 +1,7 @@
 ![Header](./e.gif)
 
 <h1 align="center"  ">Hi 👋 developers,</h1>
-<h3 align="center">A passionate and curious Full Stack Web developer</h3>
+<h3 align="center">I am a passionate and curious Full Stack Web developer</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrutii1010&label=Profile%20views&color=0e75b6&style=flat" alt="shrutii1010" /> </p>
